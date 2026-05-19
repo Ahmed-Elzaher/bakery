@@ -1,4 +1,4 @@
-# 🥐 Gourmet Bakery - Premium UI
+# 🥐 Bakery - Premium UI
 
 A modern, elegant, and highly responsive single-page Flutter application designed for a premium French bakery. It features an interactive product details screen with a warm aesthetic and smooth animations.
 
@@ -22,4 +22,4 @@ A modern, elegant, and highly responsive single-page Flutter application designe
 
 Clone the repo:
 ```bash
-git clone [https://github.com/Ahmed-Elzaher/gourmet_bakery.git](https://github.com/Ahmed-Elzaher/gourmet_bakery.git)
+git clone [https://github.com/Ahmed-Elzaher/gourmet_bakery.git](https://github.com/Ahmed-Elzaher/bakery.git)

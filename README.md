@@ -1,17 +1,25 @@
-# bakery
+# 🥐 Gourmet Bakery - Premium UI
 
-A new Flutter project.
+A modern, elegant, and highly responsive single-page Flutter application designed for a premium French bakery. It features an interactive product details screen with a warm aesthetic and smooth animations.
 
-## Getting Started
+## ✨ Key Features
 
-This project is a starting point for a Flutter application.
+* **Premium Warm UI:** A luxurious color palette featuring warm beige (#FDFBF7) and deep chocolate (#3E2723), complemented by soft shadows and Glassmorphism effects.
+* **Modular Architecture:** Clean Code structure with a clear separation of UI components into independent, reusable widgets.
+* **Interactive State Management:** Real-time quantity selector with pulse animations and dynamic cart updates.
+* **Full RTL Support:** Perfectly aligned Right-to-Left layout for Arabic localization using `Directionality`.
+* **Smooth UX:** Hero animations for product images and interactive custom snackbars for instant user feedback.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Preview
+> *(Add your screenshots or GIF here)*
+## 🛠️ Technical Implementation
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* **Pattern:** Modular Clean UI (Separated Widgets Structure).
+* **Style:** Modern 2026 Bakery Theme (Soft Shadows, Glassmorphism, Google Fonts "Tajawal").
+* **Key Widgets:** `SingleChildScrollView`, `ClipRRect`, `BackdropFilter`, `Hero`, `AnimationController`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+Clone the repo:
+```bash
+git clone [https://github.com/Ahmed-Elzaher/gourmet_bakery.git](https://github.com/Ahmed-Elzaher/gourmet_bakery.git)

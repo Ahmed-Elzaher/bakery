@@ -27,3 +27,9 @@ A modern, elegant, and highly responsive single-page Flutter application designe
 Clone the repo:
 ```bash
 git clone [https://github.com/Ahmed-Elzaher/bakery.git](https://github.com/Ahmed-Elzaher/bakery.git)
+
+Install dependencies:
+flutter pub get
+
+Run the app:
+flutter run

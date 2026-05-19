@@ -12,10 +12,8 @@ A modern, elegant, and highly responsive single-page Flutter application designe
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="screenshots/preview1.png" width="35%" />
-  <img src="screenshots/preview2.png" width="35%" />
-</p>
+<img width="540" height="1200" alt="preview2" src="https://github.com/user-attachments/assets/b12bdd9d-11cc-485a-bb3c-986ff4a9562e" />
+<img width="540" height="1200" alt="preview1" src="https://github.com/user-attachments/assets/574e57f8-70b6-4597-accf-47799baae018" />
 
 ## 🛠️ Technical Implementation
 

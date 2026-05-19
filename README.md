@@ -11,9 +11,10 @@ A modern, elegant, and highly responsive single-page Flutter application designe
 * **Smooth UX:** Hero animations for product images and interactive custom snackbars for instant user feedback.
 
 ## 📸 Preview
-
-<img width="540" height="1200" alt="preview2" src="https://github.com/user-attachments/assets/b12bdd9d-11cc-485a-bb3c-986ff4a9562e" />
-<img width="540" height="1200" alt="preview1" src="https://github.com/user-attachments/assets/574e57f8-70b6-4597-accf-47799baae018" />
+<p align="center">
+<img width="35%" src="https://github.com/user-attachments/assets/574e57f8-70b6-4597-accf-47799baae018" />
+<img width="35%" src="https://github.com/user-attachments/assets/b12bdd9d-11cc-485a-bb3c-986ff4a9562e" />
+</p>
 
 ## 🛠️ Technical Implementation
 

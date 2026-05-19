@@ -11,7 +11,12 @@ A modern, elegant, and highly responsive single-page Flutter application designe
 * **Smooth UX:** Hero animations for product images and interactive custom snackbars for instant user feedback.
 
 ## 📸 Preview
-> *(Add your screenshots or GIF here)*
+
+<p align="center">
+  <img src="screenshots/preview1.png" width="35%" />
+  <img src="screenshots/preview2.png" width="35%" />
+</p>
+
 ## 🛠️ Technical Implementation
 
 * **Pattern:** Modular Clean UI (Separated Widgets Structure).
@@ -22,4 +27,4 @@ A modern, elegant, and highly responsive single-page Flutter application designe
 
 Clone the repo:
 ```bash
-git clone [https://github.com/Ahmed-Elzaher/gourmet_bakery.git](https://github.com/Ahmed-Elzaher/bakery.git)
+git clone [https://github.com/Ahmed-Elzaher/bakery.git](https://github.com/Ahmed-Elzaher/bakery.git)
